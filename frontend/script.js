@@ -1,4 +1,4 @@
-const API_URL = "https://employee-backend-wbi0.onrender.com"; // your Render backend URL
+const API_URL = "https://employee-backend-31.onrender.com";
 
 // Load all employees when the page opens
 async function loadEmployees() {
